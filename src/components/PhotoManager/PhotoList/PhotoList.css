@@ -1,0 +1,7 @@
+.photo-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 690px;
+    margin-top: 30px;
+}
